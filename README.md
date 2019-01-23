@@ -1,5 +1,5 @@
-TypeScript Hello World Demo
-===========================
+TypeScript Axios Demo
+=====================
 
 ```
 npm install
