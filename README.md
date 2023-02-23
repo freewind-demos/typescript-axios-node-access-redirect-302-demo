@@ -1,8 +1,8 @@
-TypeScript Axios Demo
+TypeScript Axios Node Access Redirect 302 Demo
 =====================
 
 ```
 npm install
-npm run demo
+npm start
 ```
 
